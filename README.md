@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello 👋
+
+Je travaille actuellement sur des projets associés à [beta.gouv.fr](https://beta.gouv.fr/) et à la [la plateforme de l'inclusion](https://inclusion.beta.gouv.fr/presentation/) : 
+- [DORA](https://dora.inclusion.beta.gouv.fr/)
+- [Portail RSE](https://portail-rse.beta.gouv.fr/)
+- [Les emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/).
+
+Je ne partage actuellement pas mes projets personnels sur Github, que j'utilise essentiellement dans un cadre professionnel.
+
+Il peut toutefois rester des traces de projets / P.O.C en Python, Go, Clojure ou autres, simplement parce que je suis trop fainéant pour faire le ménage...
+
 
 <!--
 **ikarius/ikarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
