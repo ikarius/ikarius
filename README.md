@@ -7,7 +7,7 @@ Ces derniers temps, j'ai essentiellement travaillé sur des projets associés à
 
 Je ne partage actuellement pas mes projets personnels sur Github, que j'utilise essentiellement dans un cadre professionnel.
 
-Il peut toutefois rester des traces de projets / P.O.C en Python, Go, Clojure ou autres, simplement parce que je suis trop fainéant pour faire le ménage...
+Il peut toutefois rester des traces de projets / P.O.C en Python, Go, Zig, Clojure ou autres, simplement parce que je suis trop fainéant pour faire le ménage...
 
 
 <!--
