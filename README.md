@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Ces derniers temps, j'ai essentiellement travaillé sur des projets associés à [beta.gouv.fr](https://beta.gouv.fr/) et à la [la plateforme de l'inclusion](https://inclusion.beta.gouv.fr/presentation/) : 
+Ces derniers temps, coté code / dev, j'ai essentiellement travaillé sur des projets associés à [beta.gouv.fr](https://beta.gouv.fr/) et à la [la plateforme de l'inclusion](https://inclusion.beta.gouv.fr/presentation/) : 
 - [Portail RSE](https://portail-rse.beta.gouv.fr/)
 - [DORA](https://dora.inclusion.beta.gouv.fr/)
 - [Les emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/).
